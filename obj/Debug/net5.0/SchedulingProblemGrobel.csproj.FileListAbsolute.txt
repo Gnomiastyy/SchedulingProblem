@@ -1,0 +1,31 @@
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/bin/Debug/net5.0/SchedulingProblemGrobel.deps.json
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/bin/Debug/net5.0/SchedulingProblemGrobel.runtimeconfig.json
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/bin/Debug/net5.0/SchedulingProblemGrobel.runtimeconfig.dev.json
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/bin/Debug/net5.0/SchedulingProblemGrobel.dll
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/bin/Debug/net5.0/ref/SchedulingProblemGrobel.dll
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/bin/Debug/net5.0/SchedulingProblemGrobel.pdb
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/obj/Debug/net5.0/SchedulingProblemGrobel.csprojAssemblyReference.cache
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/obj/Debug/net5.0/SchedulingProblemGrobel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/obj/Debug/net5.0/SchedulingProblemGrobel.AssemblyInfoInputs.cache
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/obj/Debug/net5.0/SchedulingProblemGrobel.AssemblyInfo.cs
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/obj/Debug/net5.0/SchedulingProblemGrobel.csproj.CoreCompileInputs.cache
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/obj/Debug/net5.0/SchedulingProblemGrobel.dll
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/obj/Debug/net5.0/ref/SchedulingProblemGrobel.dll
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/obj/Debug/net5.0/SchedulingProblemGrobel.pdb
+/Users/bartlomiejpierog/VS Code Projects/SchedulingProblemGrobel/obj/Debug/net5.0/SchedulingProblemGrobel.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\bin\Debug\net5.0\SchedulingProblemGrobel.exe
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\bin\Debug\net5.0\SchedulingProblemGrobel.deps.json
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\bin\Debug\net5.0\SchedulingProblemGrobel.runtimeconfig.json
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\bin\Debug\net5.0\SchedulingProblemGrobel.runtimeconfig.dev.json
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\bin\Debug\net5.0\SchedulingProblemGrobel.dll
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\bin\Debug\net5.0\ref\SchedulingProblemGrobel.dll
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\bin\Debug\net5.0\SchedulingProblemGrobel.pdb
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\obj\Debug\net5.0\SchedulingProblemGrobel.csprojAssemblyReference.cache
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\obj\Debug\net5.0\SchedulingProblemGrobel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\obj\Debug\net5.0\SchedulingProblemGrobel.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\obj\Debug\net5.0\SchedulingProblemGrobel.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\obj\Debug\net5.0\SchedulingProblemGrobel.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\obj\Debug\net5.0\SchedulingProblemGrobel.dll
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\obj\Debug\net5.0\ref\SchedulingProblemGrobel.dll
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\obj\Debug\net5.0\SchedulingProblemGrobel.pdb
+C:\Users\Jakub\Desktop\Tal_projekt\SchedulingProblemGrobel\SchedulingProblemGrobel\obj\Debug\net5.0\SchedulingProblemGrobel.genruntimeconfig.cache
